@@ -1,4 +1,5 @@
 # Fantasy-Football-League-Data
+Using the python codes to scrape data to make the following sheets in Excel
 
 Master Scoreboard
 Points Allowed - Analyzed data to find Strength of Schedule Predictors as well as a 'Schedule Optimizer' which shows you what your record would be if you played each teams schedule
